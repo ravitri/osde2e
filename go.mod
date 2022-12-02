@@ -21,7 +21,7 @@ require (
 	github.com/google/go-github/v31 v31.0.0
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-multierror v1.1.1
-	github.com/jackc/pgtype v1.12.0
+	github.com/jackc/pgtype v1.13.0
 	github.com/jinzhu/inflection v1.0.0
 	github.com/joshdk/go-junit v0.0.0-20201221202203-061ee62ada40
 	github.com/kyleconroy/sqlc v1.15.0
@@ -109,7 +109,6 @@ require (
 	github.com/go-openapi/jsonreference v0.19.6 // indirect
 	github.com/go-openapi/spec v0.20.4 // indirect
 	github.com/go-openapi/swag v0.21.1 // indirect
-	github.com/gobuffalo/here v0.6.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang-jwt/jwt/v4 v4.4.1 // indirect
 	github.com/golang/glog v1.0.0 // indirect
