@@ -39,7 +39,7 @@ require (
 	github.com/openshift/rosa v1.2.23
 	github.com/openshift/route-monitor-operator v0.0.0-20221118160357-3df1ed1fa1d2
 	github.com/openshift/splunk-forwarder-operator v0.0.0-20230525060151-2dc403aa8ff9
-	github.com/operator-framework/api v0.17.4-0.20230223191600-0131a6301e42
+	github.com/operator-framework/api v0.17.7
 	github.com/operator-framework/operator-lifecycle-manager v0.22.0
 	github.com/operator-framework/operator-registry v1.27.1
 	github.com/ory/dockertest v3.3.5+incompatible
