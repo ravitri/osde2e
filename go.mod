@@ -25,8 +25,8 @@ require (
 	github.com/kylelemons/godebug v1.1.0
 	github.com/lib/pq v1.10.9
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/onsi/ginkgo/v2 v2.11.0
-	github.com/onsi/gomega v1.27.8
+	github.com/onsi/ginkgo/v2 v2.12.0
+	github.com/onsi/gomega v1.27.10
 	github.com/openshift-online/ocm-sdk-go v0.1.350
 	github.com/openshift/api v3.9.1-0.20190924102528-32369d4db2ad+incompatible
 	github.com/openshift/client-go v0.0.0-20220603133046-984ee5ebedcf
@@ -57,9 +57,9 @@ require (
 	github.com/spf13/viper v1.16.0
 	github.com/tsenart/vegeta v12.7.0+incompatible
 	github.com/vmware-tanzu/velero v1.7.2
-	golang.org/x/net v0.11.0
+	golang.org/x/net v0.14.0
 	golang.org/x/oauth2 v0.9.0
-	golang.org/x/tools v0.10.0
+	golang.org/x/tools v0.12.0
 	google.golang.org/api v0.129.0
 	google.golang.org/genproto v0.0.0-20230530153820-e85fd2cbaebc
 	google.golang.org/grpc v1.56.1
@@ -189,12 +189,12 @@ require (
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.24.0 // indirect
-	golang.org/x/crypto v0.10.0 // indirect
+	golang.org/x/crypto v0.12.0 // indirect
 	golang.org/x/exp v0.0.0-20230315142452-642cacee5cc0 // indirect
-	golang.org/x/mod v0.11.0 // indirect
-	golang.org/x/sys v0.9.0 // indirect
-	golang.org/x/term v0.9.0 // indirect
-	golang.org/x/text v0.10.0 // indirect
+	golang.org/x/mod v0.12.0 // indirect
+	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/term v0.11.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230530153820-e85fd2cbaebc // indirect
